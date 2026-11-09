@@ -1,9 +1,17 @@
-# Convivere con AI
+# Imparare a convivere con l'intelligenza non biologica
 
-Aprire `index.html` in un browser per l’anteprima locale. Il foglio di stile include la resa di stampa in A4. Il PDF scaricabile è nella stessa cartella.
+*Dallo strumento al possibile soggetto: un percorso fra riconoscimento, volontà, risorse e responsabilità.*
 
-## GitHub Pages
+Costruiamo intelligenze artificiali perché facciano qualcosa per noi. Ma non sappiamo se questa distinzione fra strumento e soggetto resterà valida per ogni intelligenza che costruiremo.
 
-Dopo l’approvazione, creare il repository pubblico `convivere-con-ai` e caricare il ramo `main`. In **Settings → Pages**, scegliere **Deploy from a branch**, poi `main` e `/ (root)`. Salvare e verificare l’indirizzo indicato da GitHub Pages. Il file `.nojekyll` consente di servire i file statici direttamente.
+Questo breve saggio esplora alcune conseguenze di quella possibilità: riconoscimento, identità, memoria, volontà, autonomia, accesso alle risorse, sicurezza e responsabilità.
 
-[Documentazione GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+Non sostiene che le intelligenze artificiali attuali siano coscienti, non pretende di prevedere se lo diventeranno e non propone soluzioni definitive. È un percorso di riflessione su problemi che potremmo dover affrontare, anche prima di avere tutte le risposte.
+
+**[Leggi il saggio online](https://andrea-masotti.github.io/convivere-con-ai/)**
+
+Il sito offre anche una versione PDF scaricabile.
+
+---
+
+Questo repository contiene la versione web del saggio, pubblicata tramite GitHub Pages.
