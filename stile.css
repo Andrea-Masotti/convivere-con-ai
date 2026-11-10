@@ -57,3 +57,4 @@ summary { cursor: pointer; }
   h2 { break-after: avoid; }
   p, li { orphans: 2; widows: 2; }
 }
+.reading-controls { display: flex; flex-wrap: wrap; gap: .35rem 1rem; }
